@@ -1,19 +1,9 @@
 import type { NextPage } from 'next'
-import Page from '../components/pages/Page';
 import Home from '../components/home/Home';
 
 
-export interface HomeProps {
-  
-}
+export interface HomeProps {}
 
-const HomePage: NextPage<HomeProps> = ({}: HomeProps ) => {
-
-  return (
-    <Page>
-      <Home />
-    </Page>
-  )
-}
+const HomePage: NextPage<HomeProps> = ({}: HomeProps) => <Home />
 
 export default HomePage

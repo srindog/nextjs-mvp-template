@@ -12,7 +12,6 @@ function Profile({}: ProfileProps) {
       <div>
         Profile
       </div>
-
     </AuthenticatedPage>
 
   )
