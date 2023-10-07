@@ -1,3 +1,5 @@
+Next.js template with a landing page, authenicated pages, & primsa...spin up a landing page and have auth pages and a typed schema setup.
+________________________________________________________
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
